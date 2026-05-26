@@ -1,6 +1,9 @@
-1.2
-+changelog+
--improved localization,
--improved performance,
--Added animation to notification,
--Added pancha tool 3+ preview.
+         1.3 (Pre-release)
+      +changelog+
+    Improved localization,
+    Improved performance,
+    Added new product: kabanlo,
+    Fixed language switch,
+    Improved Python detection,
+    Added theme and language persistence between sessions,
+    Updated styles for CheckBox and ComboBox.

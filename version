@@ -1,4 +1,4 @@
-         1.3 (Pre-release)
+         1.3
       +changelog+
     Improved localization,
     Improved performance,
@@ -7,3 +7,6 @@
     Improved Python detection,
     Added theme and language persistence between sessions,
     Updated styles for CheckBox and ComboBox.
+    Added new product: Pancha-Tool-sapphire,
+    fixed win11 TLS incompatibility,
+    added downloaded products.

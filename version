@@ -1,7 +1,10 @@
-     2.0
-PanchaLauncher out!
-new ui,
-Obfuscation removed,
-Added the ability to delete a product,
-Added changelog window,
-All functions rewritten.
+     2.1
+Kabanlo product is back,
+pancha Tool Sapphire product is back,
+added exit button,
+Added blur to the changelog window,
+Improved downloading and checks for Python+libraries,
+Improved menu:
+|-added Animations for the "Save" button in the settings,
+|-added tab switching animations,
+|-added close animation.
